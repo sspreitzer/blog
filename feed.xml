@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.spreitzer.ch</title>
+    <description>hack life</description>
+    <link>http://blog.spreitzer.ch/</link>
+    <atom:link href="http://blog.spreitzer.ch/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Sep 2016 12:53:43 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 12:53:43 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Daily Fortune</title>
+        <description>&lt;p&gt;Todays fortune was so funny i needed to blog it;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;WARNING!!!
+This machine is subject to breakdowns during periods of critical need.
+
+A special circuit in the machine called &quot;critical detector&quot; senses the
+operator&#39;s emotional state in terms of how desperate he/she is to use the
+machine.  The &quot;critical detector&quot; then creates a malfunction proportional
+to the desperation of the operator.  Threatening the machine with violence
+only aggravates the situation.  Likewise, attempts to use another machine
+may cause it to malfunction.  They belong to the same union.  Keep cool
+and say nice things to the machine.  Nothing else seems to work.
+
+See also: flog(1), tm(1)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sabrina (my girlfriend) yesterday hammered on her PS3 while it was firmware upgrading..&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://blog.spreitzer.ch/2016/fortune</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2016/fortune</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>docker.io/sspreitzer/shellinabox:2.19</title>
+        <description>&lt;h2 id=&quot;relevant-links-first&quot;&gt;Relevant links first&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sspreitzer/docker-shellinabox&quot;&gt;github.com/sspreitzer/docker-shellinabox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/sspreitzer/shellinabox&quot;&gt;hub.docker.com/r/sspreitzer/shellinabox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
+
+&lt;p&gt;A new version and automatic build of docker.io/sspreitzer/shellinabox has been created.
+Reason was a major rework to safe space (~10MB) and version update.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ubuntu xenial based&lt;/li&gt;
+  &lt;li&gt;shellinabox 2.19 with a lot of &lt;a href=&quot;https://github.com/sspreitzer/docker-shellinabox#configuration&quot;&gt;customization&lt;/a&gt; possibilities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rants&quot;&gt;Rants&lt;/h2&gt;
+
+&lt;p&gt;It was a three hours fight to find out that I was unable to solve the riddle of how to properly escape GNU bash variables in the &lt;a href=&quot;https://www.gnu.org/software/bash/manual/bash.html#index-exec&quot;&gt;exec&lt;/a&gt; shell builtin. The workaround was to create symlinks to the respective whitespaces files which included dashes instead of whitespaces.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://blog.spreitzer.ch/2016/docker-shellinabox-2.19</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2016/docker-shellinabox-2.19</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>cloudfuse Fedora 22 x86_64 rpm</title>
+        <description>&lt;p&gt;I was packaging cloudfuse for Fedora to access my OpenStack Swift object storage.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/redbo/cloudfuse&quot;&gt;Github project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://people.redhat.com/~sspreitz/repos/fc22&quot;&gt;RPMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2015 00:00:00 +0200</pubDate>
+        <link>http://blog.spreitzer.ch/2015/cloudfuse-rpm</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2015/cloudfuse-rpm</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Git Basics Presentation</title>
+        <description>&lt;p&gt;Here is my first presentation about Git which I also use for trainings&lt;/p&gt;
+
+&lt;iframe width=&quot;576&quot; height=&quot;420&quot; src=&quot;//redhat.slides.com/sspreitz/git-basics/embed&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;webkitallowfullscreen&quot; mozallowfullscreen=&quot;mozallowfullscreen&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
+        <link>http://blog.spreitzer.ch/2015/git-basics-presentation</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2015/git-basics-presentation</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello World! (again)</title>
+        <description>&lt;p&gt;It has been a while since spreitzer.ch has seen an update. In the last days I had some time containerizing my two vServers and the outcome is also a brand new spreitzer.ch website. The design might give a forecast on what is yet to happen in a few months. Stay tuned..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/72919_10151551487621376_107689058_n.jpg&quot; alt=&quot;Sascha&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://blog.spreitzer.ch/2015/hello-world-again</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2015/hello-world-again</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;h2 id=&quot;mea-caede&quot;&gt;Mea caede&lt;/h2&gt;
+
+&lt;p&gt;Lorem markdownum hanc nullus, sacraque adiciam Marte, inpositaque stravit
+Acmona. Desine clavae! Carthaea tamen. Erat nocuit et omnes capillis sunt.&lt;/p&gt;
+
+&lt;h2 id=&quot;vidit-caelum-ab-adnuat-turba-saturnus-ex&quot;&gt;Vidit caelum ab adnuat turba Saturnus ex&lt;/h2&gt;
+
+&lt;p&gt;Duri quod Aricinae cernunt; sceleratior modo sic saepe plaga misit inque
+nomenque molimine freta. Nec pondus locis est fatigat mulcere in equidem cessent
+maduerunt! Terramque eam efficiet pignus ignis flore, Minervae plus summo
+spirat, Thisbe somno.&lt;/p&gt;
+
+&lt;h2 id=&quot;maesta-sidere-manu-illa&quot;&gt;Maesta sidere manu illa&lt;/h2&gt;
+
+&lt;p&gt;Altera si, faciem quid transieram moenia; opus intrat donata potiturque rapis
+rerum potero. Dis sit aquoso auguror multi; dextra cum negarunt, ipse sanguine:
+tantum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Iungi est cura nimium modus genitor&lt;/li&gt;
+  &lt;li&gt;Decimo post quin thalamos&lt;/li&gt;
+  &lt;li&gt;Gentis profuit postquam orantem caelo retinere mortis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;patriam-haec-refecta&quot;&gt;Patriam haec refecta&lt;/h2&gt;
+
+&lt;p&gt;Quo fundere illum sui coercuerat, venerat, sed satum similisque profugo; et
+ingenti, prima nosse ieiunia. Nostro polo vocavit censuque, pollutosque neque
+flammae inter, rorantia modo caelum corpora est fieri.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;excel_graymail.cd_chipset_prom += -1;
+ddl += left;
+if (numRepeater &amp;gt;= mode) {
+    analog_file.card_touchscreen(computing.socket(2, 892784,
+            graymail_drive), 5, language_botnet_graphic);
+    bus.downHandleBox += numberClipboardFriendly(cell + stack_core_page);
+} else {
+    num += compressionJavaCycle;
+}
+office(-3 + 4 + gigabitAdf.import.thinMetadata(android_lun_plagiarism));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Et socium inquit primum fratres sollertia, inque tanti petiere. Ubi hic ultimus
+sensit; isti est multoque amorque nescio Typhoea caecum. Tum ore An admota
+Lycaeo nisi, dederat rapta quae, eveniunt quod aequoris anguicomae pyra.
+Scitusque virtus In conchae praesens gestit luna, sub des Cythereia repetita
+materiam exhortanturque paratu. Et non,&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+        <link>http://blog.spreitzer.ch/2015/hello-world</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2015/hello-world</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
