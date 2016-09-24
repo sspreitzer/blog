@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.spreitzer.ch</title>
+    <description>hack life</description>
+    <link>http://blog.spreitzer.ch/</link>
+    <atom:link href="http://blog.spreitzer.ch/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Sep 2016 10:49:23 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2016 10:49:23 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <item>
+        <title>cloudfuse Fedora 22 x86_64 rpm</title>
+        <description>&lt;p&gt;I was packaging cloudfuse for Fedora to access my OpenStack Swift object storage.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/redbo/cloudfuse&quot;&gt;Github project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://people.redhat.com/~sspreitz/repos/fc22&quot;&gt;RPMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2015 00:00:00 +0200</pubDate>
+        <link>http://blog.spreitzer.ch/2015/cloudfuse-rpm</link>
+        <guid isPermaLink="true">http://blog.spreitzer.ch/2015/cloudfuse-rpm</guid>
+        
+        
+        <category>rpm</category>
+        
+        <category>cloudfuse</category>
+        
+        <category>fedora</category>
+        
+      </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>

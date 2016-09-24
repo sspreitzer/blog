@@ -5,8 +5,8 @@
     <description>hack life</description>
     <link>http://blog.spreitzer.ch/</link>
     <atom:link href="http://blog.spreitzer.ch/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 12:53:43 +0200</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 12:53:43 +0200</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2016 10:49:23 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2016 10:49:23 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -34,6 +34,8 @@ See also: flog(1), tm(1)
         <link>http://blog.spreitzer.ch/2016/fortune</link>
         <guid isPermaLink="true">http://blog.spreitzer.ch/2016/fortune</guid>
         
+        
+        <category>social</category>
         
       </item>
     
@@ -65,6 +67,12 @@ Reason was a major rework to safe space (~10MB) and version update.&lt;/p&gt;
         <guid isPermaLink="true">http://blog.spreitzer.ch/2016/docker-shellinabox-2.19</guid>
         
         
+        <category>docker</category>
+        
+        <category>shellinabox</category>
+        
+        <category>2.19</category>
+        
       </item>
     
       <item>
@@ -81,6 +89,12 @@ Reason was a major rework to safe space (~10MB) and version update.&lt;/p&gt;
         <guid isPermaLink="true">http://blog.spreitzer.ch/2015/cloudfuse-rpm</guid>
         
         
+        <category>rpm</category>
+        
+        <category>cloudfuse</category>
+        
+        <category>fedora</category>
+        
       </item>
     
       <item>
@@ -93,6 +107,12 @@ Reason was a major rework to safe space (~10MB) and version update.&lt;/p&gt;
         <link>http://blog.spreitzer.ch/2015/git-basics-presentation</link>
         <guid isPermaLink="true">http://blog.spreitzer.ch/2015/git-basics-presentation</guid>
         
+        
+        <category>git</category>
+        
+        <category>presentation</category>
+        
+        <category>basics</category>
         
       </item>
     
@@ -164,6 +184,12 @@ materiam exhortanturque paratu. Et non,&lt;/p&gt;
         <link>http://blog.spreitzer.ch/2015/hello-world</link>
         <guid isPermaLink="true">http://blog.spreitzer.ch/2015/hello-world</guid>
         
+        
+        <category>dummy</category>
+        
+        <category>lorem</category>
+        
+        <category>ipsum</category>
         
       </item>
     
